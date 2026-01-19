@@ -1,0 +1,5 @@
+gymnasium==1.0.0
+matplotlib==3.10.7
+numpy==2.2.6
+seaborn==0.13.2
+pygame-ce==2.5.6
